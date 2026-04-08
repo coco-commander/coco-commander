@@ -18,7 +18,7 @@
 ---
 
 ### 📡 Commander's Status
-![Commander COCO's GitHub Stats](https://github-readme-stats.vercel.app/api?username=coco-commander&show_icons=true&theme=tokyonight)
+[![Commander COCO's GitHub Stats](https://github-readme-stats.vercel.app/api?username=coco-commander&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
 
